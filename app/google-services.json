@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "170522526314",
+    "project_id": "my-shop-bed85",
+    "storage_bucket": "my-shop-bed85.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:170522526314:android:43a6f530dc22e225ca8013",
+        "android_client_info": {
+          "package_name": "com.example.myshop"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "170522526314-tc8j833iv7p34nbe4u61f6745agmllp0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.myshop",
+            "certificate_hash": "ffee6ab67be40bcdd9619b47ec69909fdc22edd5"
+          }
+        },
+        {
+          "client_id": "170522526314-knvnqpnkuifncjk0cvaq7e3sn4ln7l4a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBDquUXxanylUJlmhrRag9jVis40DM93wU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "170522526314-knvnqpnkuifncjk0cvaq7e3sn4ln7l4a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
